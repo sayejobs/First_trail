@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("button").click(function(){
+        alert('hello man hi');
+    });
+});
+</script>
+
+<style>
+
+body{
+
+
+background-image: url("dfd.jpg");
+
+
+
+}
+
+</style>
+
+
+</head>
+<body>
+
+<p>helo ooooooooooo</p>
+<button>Click me</button>
+
+</body>
+</html>
